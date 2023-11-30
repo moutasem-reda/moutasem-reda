@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Project Title
+
+A brief description of what this project does and who it's for
+
+
+## 🚀 About Me
+I'm a student developer...
+
+## 🛠 Skills
+python...
+
+
